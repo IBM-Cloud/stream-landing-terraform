@@ -4,4 +4,4 @@ Learn how to archive your Event Streams Kafka data to Object Storage using SQL Q
 
 ![stream landing](drawio/stream_landing.png)
 
-For step by step instructions, check the blog post.
+For step by step instructions, check this [post on IBM Cloud blog](https://www.ibm.com/cloud/blog/stream-landing-kafka-data-to-object-storage-using-terraform).
