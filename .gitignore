@@ -29,3 +29,5 @@ override.tf.json
 # example: *tfplan*
 local.env
 .terraform.lock.hcl
+drawio/.DS_Store
+.DS_Store
